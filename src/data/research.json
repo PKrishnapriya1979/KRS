@@ -1,0 +1,17 @@
+{
+    "funding" : 
+       [
+         { "id": 1,
+          "min_amount":0,
+          "max_amount":2,
+          "score":2
+         },
+         { 
+            "id": 2,
+            "min_amount":2,
+            "max_amount":100,
+            "score":5
+           }
+           
+       ]
+    }

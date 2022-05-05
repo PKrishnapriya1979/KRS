@@ -1,0 +1,22 @@
+[
+    {
+        "degree_id" : 1,
+        "degree" : "Ph.D"
+    },
+    {
+        "degree_id" : 2,
+        "degree" : "M.Phil"
+    },
+    {
+        "degree_id" : 3,
+        "degree" : "M.B.A / M.Sc / MCA / M.Com"
+    },
+    {
+        "degree_id" : 4,
+        "degree" : "NET"
+    },
+    {
+        "degree_id" : 5,
+        "degree" : "SLET"
+    }
+]

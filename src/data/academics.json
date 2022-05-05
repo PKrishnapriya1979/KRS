@@ -1,0 +1,154 @@
+{
+ "pass_percentage" : 
+    [
+        {
+            "id" : 1,
+            "range_min" : 75,
+            "range_max" : 80,
+            "score" : 5
+        },
+        {
+            "id" : 2,
+            "range_min" : 80,
+            "range_max" : 85,
+            "score" : 10
+        },{
+            "id" : 3,
+            "range_min" : 85,
+            "range_max" : 90,
+            "score" : 15
+        },{
+            "id" : 4,
+            "range_min" : 90,
+            "range_max" : 95,
+            "score" : 20
+        },{
+            "id" : 5,
+            "range_min" : 95,
+            "range_max" : 100,
+            "score" : 25
+        }
+    ],
+    "subject_average" : [
+        {
+            "id" : 1,
+            "range_min" : 60,
+            "range_max" : 63,
+            "score" : 5
+        },
+        {
+            "id" : 2,
+            "range_min" : 63,
+            "range_max" : 66,
+            "score" : 10
+        },
+        {
+            "id" : 3,
+            "range_min" : 66,
+            "range_max" : 69,
+            "score" : 15
+        },
+        {
+            "id" : 4,
+            "range_min" : 69,
+            "range_max" : 72,
+            "score" : 20
+        },
+        {
+            "id" : 5,
+            "range_min" : 72,
+            "range_max" : 100,
+            "score" : 25
+        }
+    ],
+    "feedback_students":[
+        {
+            "id" : 1,
+            "range_min" : 0,
+            "range_max" : 2,
+            "score" : 3
+        },
+        {
+            "id" : 2,
+            "range_min" : 2,
+            "range_max" : 3,
+            "score" : 6
+        },{
+            "id" : 3,
+            "range_min" : 3,
+            "range_max" : 4,
+            "score" : 9
+        },{
+            "id" : 4,
+            "range_min" : 4,
+            "range_max" : 4.5,
+            "score" : 12
+        },
+        {
+            "id" : 5,
+            "range_min" : 4.5,
+            "range_max" : 5,
+            "score" : 15
+        }
+    ],
+    "technical_skill" :[
+        {
+            "contentExpertise" :[
+                {
+                    "id":1,
+                    "level":"Need Material",
+                    "score":0
+                },
+                {
+                    "id":2,
+                    "level":"sufficient Material",
+                    "score":1
+                },{
+                    "id":3,
+                    "level":"Excellent",
+                    "score":2
+                }
+            ],
+            "Instructional_design_skill":[
+                {
+                    "id":1,
+                    "level":"Microplan",
+                    "score":2
+                },
+                {
+                    "id":2,
+                    "level":"Macroplan",
+                    "score":1
+                },
+                {
+                    "id":3,
+                    "level":"Noplan",
+                    "score":0
+                }
+            ],
+            "Assesment_Skill":[
+                {
+                    "id":1,
+                    "min_test":"test",
+                    "level":3,
+                    "score":1
+                },
+                {
+                    "id":2,
+                    "min_test":"course",
+                    "level":80,
+                    "score":1
+                },
+                {
+                    "id":3,
+                    "min_test":"class conducted",
+                    "level":80,
+                    "score":2
+                }
+            ]
+
+        }
+    ]
+
+
+}
